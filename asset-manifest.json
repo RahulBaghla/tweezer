@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/tweezer/static/js/main.803f874a.chunk.js",
+    "main.js.map": "/tweezer/static/js/main.803f874a.chunk.js.map",
+    "runtime-main.js": "/tweezer/static/js/runtime-main.83a57fad.js",
+    "runtime-main.js.map": "/tweezer/static/js/runtime-main.83a57fad.js.map",
+    "static/js/2.af99bbe8.chunk.js": "/tweezer/static/js/2.af99bbe8.chunk.js",
+    "static/js/2.af99bbe8.chunk.js.map": "/tweezer/static/js/2.af99bbe8.chunk.js.map",
+    "index.html": "/tweezer/index.html",
+    "static/js/2.af99bbe8.chunk.js.LICENSE.txt": "/tweezer/static/js/2.af99bbe8.chunk.js.LICENSE.txt",
+    "static/media/enterprise.be9c5cd4.png": "/tweezer/static/media/enterprise.be9c5cd4.png",
+    "static/media/politics.02005d8f.png": "/tweezer/static/media/politics.02005d8f.png",
+    "static/media/public.97768aa2.png": "/tweezer/static/media/public.97768aa2.png",
+    "static/media/reporter.dfb9766e.png": "/tweezer/static/media/reporter.dfb9766e.png",
+    "static/media/sales.77ab2317.png": "/tweezer/static/media/sales.77ab2317.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83a57fad.js",
+    "static/js/2.af99bbe8.chunk.js",
+    "static/js/main.803f874a.chunk.js"
+  ]
+}
